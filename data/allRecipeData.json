@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "1",
+        "name": "Turkey Meatloaf",
+        "image": "https://www.themealdb.com/images/media/meals/ypuxtw1511297463.jpg",
+        "ingredients": [
+            "Turkey Mince",
+            "Eggs",
+            "Cannellini Beans",
+            "Olive Oil",
+            "Tomato Puree"
+        ],
+        "cooking_method": "Heat oven to 180C/160C fan/gas 4. Heat the oil in a large frying pan and cook the onion for 8-10 mins until softened. Add the garlic, Worcestershire sauce and 2 tsp tomato purée, and stir until combined. Set aside to cool.\r\n\r\nPut the turkey mince, egg, breadcrumbs and cooled onion mix in a large bowl and season well. Mix everything to combine, then shape into a rectangular loaf and place in a large roasting tin. Spread 2 tbsp barbecue sauce over the meatloaf and bake for 30 mins.\r\n\r\nMeanwhile, drain 1 can of beans only, then pour both cans into a large bowl. Add the remaining barbecue sauce and tomato purée. Season and set aside.\r\n\r\nWhen the meatloaf has had its initial cooking time, scatter the beans around the outside and bake for 15 mins more until the meatloaf is cooked through and the beans are piping hot. Scatter over the parsley and serve the meatloaf in slices.",
+        "rating": "4.8"
+    },
+    {
+        "_id": "2",
+        "name": "Tandoori chicken",
+        "image": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg",
+        "ingredients": [
+            "Chicken Thighs",
+            "Greek Yogurt",
+            "Paprika",
+            "Olive Oil",
+            "Lemons"
+        ],
+        "cooking_method": "Mix the lemon juice with the paprika and red onions in a large shallow dish. Slash each chicken thigh three times, then turn them in the juice and set aside for 10 mins.\r\nMix all of the marinade ingredients together and pour over the chicken. Give everything a good mix, then cover and chill for at least 1 hr. This can be done up to a day in advance.\r\nHeat the grill. Lift the chicken pieces onto a rack over a baking tray. Brush over a little oil and grill for 8 mins on each side or until lightly charred and completely cooked through.",
+        "rating": "4.6"
+    },
+    {
+        "_id": "3",
+        "name": "Fish pie",
+        "image": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+        "ingredients": [
+            "White Fish Fillets",
+            "Prawns",
+            "Plain flour",
+            "Nutmeg",
+            "Lemons"
+        ],
+        "cooking_method": "01.Put the potatoes in a large pan of cold salted water and bring to the boil. Lower the heat, cover, then simmer gently for 15 minutes until tender. Drain, then return to the pan over a low heat for 30 seconds to drive off any excess water. Mash with 1 tbsp olive oil, then season.\r\n02.Meanwhile put the milk in a large sauté pan, add the fish and bring to the boil. Remove from the heat, cover and stand for 3 minutes. Remove the fish (reserving the milk) and pat dry with kitchen paper, then gently flake into an ovenproof dish, discarding the skin and any bones.\r\n03.Heat the remaining oil in a pan, stir in the flour and cook for 30 seconds. Gradually stir in 200-250ml of the reserved milk (discard the rest). Grate in nutmeg, season, then bubble until thick. Stir in the cream.\r\n04.Preheat the oven to 190°C/fan170°C/gas 5. Grate the artichokes and add to the dish with the leek, prawns and herbs. Stir the lemon zest and juice into the sauce, then pour over. Mix gently with a wooden spoon.\r\n05.Spoon the mash onto the fish mixture, then use a fork to make peaks, which will crisp and brown as it cooks. Sprinkle over the cheese, then bake for 35-40 minutes until golden and bubbling. Serve with wilted greens.",
+        "rating": "4.2"
+    }
+]

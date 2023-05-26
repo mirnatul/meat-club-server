@@ -1,0 +1,56 @@
+[
+    {
+        "_id": "1",
+        "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/09/07/142488.jpg",
+        "name": "CZN Burak",
+        "bio": "Czn Burak, or Burak Ozdemir, is a famous Chef based in Turkey. He gained worldwide popularity for his food-related content on social media platforms like TikTok and Instagram. Millions of people follow his work. People love his cooking style. One of Burak’s popular dishes was the forty-inch kebab. Burak owns the famous restaurant named Hatay Medeniyetler Sofras in Turkey.",
+        "experience": "12 years",
+        "recipes": "3",
+        "likes": "1.2M"
+    },
+    {
+        "_id": "2",
+        "image": "https://jpkmalaysia.com/wp-content/uploads/2022/12/Salt-Bae-Malaysia-Profile-pic.jpg",
+        "name": "Salt Bae",
+        "bio": "Nusret Gökçe (Turkish: [nusˈɾet ɟœcˈtʃe]; born 1983), nicknamed Salt Bae, is a Turkish butcher, chef, food entertainer and restaurateur whose technique for preparing and seasoning meat became an Internet meme in January 2017. He owns Nusr-Et, a chain of luxury steak houses. As of 2021, he has Nusr-Et branches in Turkey, Greece, the United States, the United Kingdom, the United Arab Emirates, Qatar, and Saudi Arabia. The name of his restaurant chain comes from his own name and 'Et', which means 'meat' in Turkish.",
+        "experience": "10 years",
+        "recipes": "3",
+        "likes": "1.1M"
+    },
+    {
+        "_id": "3",
+        "image": "https://www.hospitalitymagazine.com.au/wp-content/uploads/https___prod.static9.net_.au___media_2016_08_26_12_40_somer-sivrioglu.jpg",
+        "name": "Somer Sivrioglu",
+        "bio": "Somer Sivrioglu professional chef and television personality best known by his appearances as a judge on MasterChef Turkey. He has also gained recognition from his appearances on the television shows Somer's Kitchen and the Journey to Taste. He is the owner of multiple restaurants in the Sydney, Australia area.",
+        "experience": "18 years",
+        "recipes": "3",
+        "likes": "750K"
+    },
+    {
+        "_id": "4",
+        "image": "https://i.lezzet.com.tr/images-xxlarge-secondary/2-michelin-yildizi-alan-restoran-turk-fatih-tutak-kimdir-iste-turk-fatih-tutakin-monusu-16c9e97f-17fc-42ae-8ada-41ef7027ed82.jpg",
+        "name": "Fatih Tutak",
+        "bio": "Born in 1985, Fatih Tutak, chef and owner of TURK Fatih Tutak, went to Bolu Mengen Culinary School for professional education and did his apprenticeship under French chef Paul Pairet in Turkey. The Turkish chef then took on Asia and worked in Qingdao, Beijing, Hong Kong and Singapore where he learned about Asian cuisine.",
+        "experience": "8 years",
+        "recipes": "3",
+        "likes": "832K"
+    },
+    {
+        "_id": "5",
+        "image": "https://www.saarbruecker-zeitung.de/imgs/03/1/5/5/2/8/4/4/0/3/tok_ebc9d729a22f49e7585675e779854883/w2100_h1313_x1796_y1122_Ali_Guengoermue__x15f_-60571ffc362ab137.jpg",
+        "name": "Ali Gungormus",
+        "bio": "Ali Güngörmüş is a chef of Turkish origin who lives and works in Germany, where he is also known to the general public for the television programs in which he has taken part. In 2006, his restaurant was awarded a Michelin star. His passion for flavors and quality ingredients is fully perceived in the spice blends developed for Ankerkraut.",
+        "experience": "18 years",
+        "recipes": "3",
+        "likes": "932K"
+    },
+    {
+        "_id": "6",
+        "image": "https://www.trhaber.com/images/haberler/2021/09/arda_turkmen_kimdir_nereli_ve_kac_yasinda_h12689_8e37f.jpg",
+        "name": "Arda Turkmen",
+        "bio": "Arda Turkmen, is a famous Chef based in Turkey. He gained worldwide popularity for his food-related content on social media platforms like TikTok and Instagram. Millions of people follow his work. People love his cooking style. One of Burak’s popular dishes was the forty-inch kebab. Burak owns the famous restaurant named Hatay Medeniyetler Sofras in Turkey.",
+        "experience": "8 years",
+        "recipes": "3",
+        "likes": "612K"
+    }
+]
